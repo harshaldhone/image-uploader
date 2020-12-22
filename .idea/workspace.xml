@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7af0ea58-c531-4e61-8ee9-46642c62a80d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/helloworld/ImageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/helloworld/ImageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-00-Final.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-AngularHardcoded.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-AngularHttpWithoutAuthentication.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-SpringBootWithoutAuthentication.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-AngularHttpBasicAuthentication.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-SpringBootBasicAuthentication.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-AngularHttpJwtAuthentication.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-SpringBootWithJwtAuthentication.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-01-Generated-From-Angular-Cli.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-01-Generated-From-Angular-Cli.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-02-After-Creating-Welcome-Component.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-02-After-Creating-Welcome-Component.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-03-Basic-Hardcoded-Validation-Introduced-ngIf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-03-Basic-Hardcoded-Validation-Introduced-ngIf.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-04-Basic-Todo-List-Component.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-04-Basic-Todo-List-Component.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-05-FIRST-BREAK-AND-REVIEW.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-05-FIRST-BREAK-AND-REVIEW.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-06-FORMATTING-COMPLETE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-06-FORMATTING-COMPLETE.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-07-ANGULAR-FIRST-COMPLETE-VERSION.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-07-ANGULAR-FIRST-COMPLETE-VERSION.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-08-CREATED-HELLO-WORLD-REST-SERVICES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-08-CREATED-HELLO-WORLD-REST-SERVICES.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-09-Hello-World-Message-Call-Basic-Implementation-In-Angular.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-09-Hello-World-Message-Call-Basic-Implementation-In-Angular.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-10-Hello-World-Message-Call-With-Basic-Error-Handling.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-10-Hello-World-Message-Call-With-Basic-Error-Handling.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-11-Hello-World-With-Parameter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-11-Hello-World-With-Parameter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-12-Update-Todo-Display.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-12-Update-Todo-Display.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-13-Update-Todo-Display-Target-Data-2-Way-Binding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-13-Update-Todo-Display-Target-Data-2-Way-Binding.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-14-Create-Todo-Functionality-Done.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-14-Create-Todo-Functionality-Done.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-15-Validation-Done-Section-Complete.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-15-Validation-Done-Section-Complete.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-16-Front-end-using-http-basic-for-executing-http-requests.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-16-Front-end-using-http-basic-for-executing-http-requests.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-17-Login-Working-After-disabling-http-interceptor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-17-Login-Working-After-disabling-http-interceptor.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-18-Working-App-With-Basic-Authentication-After-Enabling-HttpInterceptor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-18-Working-App-With-Basic-Authentication-After-Enabling-HttpInterceptor.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-19-Refactoring-To-Constants.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-19-Refactoring-To-Constants.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-20-Working-With-JWT-Authentication.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-20-Working-With-JWT-Authentication.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-21-JWT-Auth-Connected-To-Jpa.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup-21-JWT-Auth-Connected-To-Jpa.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/list-todos/list-todos.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/list-todos/list-todos.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/menu/menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/menu/menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/menu/menu.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/menu/menu.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/service/data/welcome-data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/service/data/welcome-data.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/service/hardcoded-authentication.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/service/hardcoded-authentication.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/todo/todo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/todo/todo.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/todo/todo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/todo/todo.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/welcome/welcome.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/welcome/welcome.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/app/welcome/welcome.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/app/welcome/welcome.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/todo/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/AuthenticationBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/basic/auth/AuthenticationBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/BasicAuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/basic/auth/BasicAuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/basic/auth/SpringSecurityConfigurationBasicAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/BcryptEncoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/BcryptEncoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JWTWebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/JWTWebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtInMemoryUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/JwtInMemoryUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenAuthorizationOncePerRequestFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/JwtTokenAuthorizationOncePerRequestFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUnAuthorizedResponseAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/JwtUnAuthorizedResponseAuthenticationEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/JwtUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/AuthenticationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/resource/AuthenticationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtAuthenticationRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/resource/JwtAuthenticationRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtTokenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/resource/JwtTokenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtTokenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/jwt/resource/JwtTokenResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/todo/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoHardcodedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/todo/TodoHardcodedService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/todo/TodoJpaResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beProject/rest/webservices/restfulwebservices/todo/TodoResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/beProject/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1alc9dyoVE3Quwx6q0HMZcMQC8j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RestfulWebServicesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.beProject.rest.webservices.restfulwebservices.RestfulWebServicesApplication" />
+      <module name="restful-web-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beProject.rest.webservices.restfulwebservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RestfulWebServicesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7af0ea58-c531-4e61-8ee9-46642c62a80d" name="Default Changelist" comment="" />
+      <created>1587313470910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587313470910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1228" height="159" key="GridCell.Tab.0.bottom" timestamp="1608630171741">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1228" height="159" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1608630171741" />
+    <state width="1228" height="159" key="GridCell.Tab.0.center" timestamp="1608630171737">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1228" height="159" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1608630171737" />
+    <state width="1228" height="159" key="GridCell.Tab.0.left" timestamp="1608630171735">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1228" height="159" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1608630171735" />
+    <state width="1228" height="159" key="GridCell.Tab.0.right" timestamp="1608630171739">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1228" height="159" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1608630171739" />
+  </component>
+</project>
